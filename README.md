@@ -17,9 +17,9 @@ The following table summarizes the performance of the ViT model on the waste cla
 | Model                     | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |---------------------------|--------------|---------------|------------|--------------|
 | Vision Transformer (ViT)   |              |               |            |              |
-| DenseNet                  |              |               |            |              |
-| EfficientNet              |              |               |            |              |
-| ResNet                    |              |               |            |              |
+| DenseNet121                 |              |               |            |              |
+| EfficientNet_b0             |              |               |            |              |
+| ResNet50                    |              |               |            |              |
 
 You can fill in the model performance results after training and evaluating the models.
 
