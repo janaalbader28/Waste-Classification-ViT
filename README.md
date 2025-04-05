@@ -14,12 +14,14 @@ You can download the dataset from the following link:
 
 The following table summarizes the performance of the ViT model on the waste classification task compared to CNN models such as DenseNet, EfficientNet, and ResNet. The metrics include Accuracy, Precision, Recall, and F1-Score.
 
+num_epochs = 5
+
 | Model                     | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |---------------------------|--------------|---------------|------------|--------------|
-| Vision Transformer (ViT)   |              |               |            |              |
-| DenseNet121                 |              |               |            |              |
-| EfficientNet_b0             |              |               |            |              |
-| ResNet50                    |              |               |            |              |
+| Vision Transformer (ViT)   |          89%    |         90%      |      89%      |       89%       |
+| DenseNet121                 |            95%  |        95%       |         95%   |95%|
+| EfficientNet_b0             |          96%    |     96%          |         96%   |          96%    |
+| ResNet50                    |            94%  |          94%     |95%      |94%       |
 
 You can fill in the model performance results after training and evaluating the models.
 
