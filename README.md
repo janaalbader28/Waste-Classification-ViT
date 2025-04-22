@@ -1,25 +1,21 @@
 ## Waste Classification Model using Vision Transformer (ViT) 🗑️♻️
 
-This project aims to classify waste materials using a Vision Transformer (ViT) model. The dataset used for this project is the **Garbage Classification Dataset**, which contains images of different types of garbage. The goal is to develop a deep learning model capable of accurately categorizing these images into distinct categories of waste.
+This project explores the application of **Vision Transformers (ViT)** in the field of **waste classification**, an area where ViT has not been extensively studied. While Convolutional Neural Networks (CNNs) such as **DenseNet**, **EfficientNet**, and **ResNet** have been widely used for image classification tasks, our research aims to evaluate the potential of ViT in this domain and compare its performance against these established CNN architectures.
 
-The model architecture is based on **Vision Transformer (ViT)**, which is a state-of-the-art transformer model designed for image classification tasks.
+We demonstrate that ViT can achieve strong performance in classifying waste materials, highlighting its ability to extract meaningful features from visual data even in a domain traditionally dominated by CNNs.
 
-### Dataset: 📂
+### 🗃️ Dataset
 
-You can download the dataset from the following link:
+We used the **Garbage Classification Dataset**, which contains images of different types of waste.  
+📎 [Garbage Classification Dataset on Kaggle](https://www.kaggle.com/datasets/asdasdasas/garbage-classification/data)
 
-[Garbage Classification Dataset on Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/data)
+### 📊 Performance Metrics
 
-### Performance Metrics: 📈 
+The table below summarizes the performance of ViT compared to popular CNN models. The metrics include **Accuracy**, **Precision**, **Recall**, and **F1-Score**, calculated over 50 training epochs.
 
-The following table summarizes the performance of the ViT model on the waste classification task compared to CNN models such as DenseNet, EfficientNet, and ResNet. The metrics include Accuracy, Precision, Recall, and F1-Score for 50 epochs.
-
-
-| Model                     | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
-|---------------------------|--------------|---------------|------------|--------------|
-| Vision Transformer (ViT)   |          95%    |         95%      |      95%      |       95%       |
-| DenseNet121                 |            ?%  |        ?%       |         ?   |?|
-| EfficientNet_b0             |          ?%    |     ?%          |         ?%   |          ?%    |
-| ResNet50                    |            ?%  |          ?%     |?%      |?%       |
-
-
+| Model                      | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
+|----------------------------|--------------|---------------|------------|--------------|
+| Vision Transformer (ViT)   | 95%          | 95%           | 95%        | 95%          |
+| DenseNet121                | ?%           | ?%            | ?%         | ?%           |
+| EfficientNet_b0            | 97%           | 97%           | 97%          | 97%           |
+| ResNet50                   | ?%           | ?%            | ?%         | ?%           |
