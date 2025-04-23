@@ -18,4 +18,4 @@ The table below summarizes the performance of ViT compared to popular CNN models
 | Vision Transformer (ViT)   | 95%          | 95%           | 95%        | 95%          |
 | DenseNet121                |  95%          | 95%           | 95%        | 95%          |
 | EfficientNet_b0            | 97%           | 97%           | 97%          | 97%           |
-| ResNet50                   | ?%           | ?%            | ?%         | ?%           |
+| ResNet50                   | 92%           | 92%            | 92%         | 92%           |
