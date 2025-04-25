@@ -19,3 +19,4 @@ The table below summarizes the performance of ViT compared to popular CNN models
 | DenseNet121                |  95%          | 95%           | 95%        | 95%          |
 | EfficientNet_b0            | 97%           | 97%           | 97%          | 97%           |
 | ResNet50                   | 93%           | 93%            | 93%         | 93%           |
+| VGG19                   | 91%           | 91%            | 91%         | 91%           |
