@@ -15,8 +15,8 @@ The table below summarizes the performance of ViT compared to popular CNN models
 
 | Model                      | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |----------------------------|--------------|---------------|------------|--------------|
-| Vision Transformer (ViT)   | 95%          | 95%           | 95%        | 95%          |
-| DenseNet121                |  95%          | 95%           | 95%        | 95%          |
-| EfficientNet_b0            | 97%           | 97%           | 97%          | 97%           |
-| ResNet50                   | 93%           | 93%            | 93%         | 93%           |
+| Vision Transformer (ViT)   | 95%          | 96%           | 95%        | 95%          |
+| ResNet50                   | 93%           | 93%            | 93%         | 92%           |
+| DenseNet121                |  95%          | 96%           | 95%        | 95%          |
 | VGG19                   | 91%           | 91%            | 91%         | 91%           |
+| EfficientNet_b0            | 97%           | 97%           | 97%          | 97%           |
