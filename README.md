@@ -18,8 +18,7 @@ You can view our full paper here:
 
 ## 📊 Performance Metrics
 
-The table below summarizes the performance of ViT compared to popular CNN models. The metrics include **Accuracy**, **Precision**, **Recall**, and **F1-Score**, calculated over 50 training epochs.
-
+The table below summarizes the performance of ViT compared to popular CNN models. The metrics include **Accuracy**, **Precision**, **Recall**, and **F1-Score**.
 | Model                      | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |----------------------------|--------------|---------------|------------|--------------|
 | Vision Transformer (ViT)   | 95%          | 96%           | 95%        | 95%          |
