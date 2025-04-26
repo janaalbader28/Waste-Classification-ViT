@@ -30,5 +30,33 @@ The table below summarizes the performance of ViT compared to popular CNN models
 
 ## 👩‍💻 Group Members
 
+- **Alaa Bahobail**  
+  <p align="left">
+    <a href="https://github.com/alaaomar20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Atheer Al Otaibi" height="30" width="40" /></a>
+  </p>
+  
+- **Atheer Al Otaibi**  
+  <p align="left">
+    <a href="https://github.com/AtheerMishal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Atheer Al Otaibi" height="30" width="40" /></a>
+  </p>
+  
+- **Jana Albader**  
+  <p align="left">
+    <a href="https://github.com/janaalbader28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jana Albader" height="30" width="40" /></a>
+  </p>
+  
+- **Jumana Khawaji**  
+  <p align="left">
+    <a href="https://github.com/iijumanaAhmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jumana Khawaji" height="30" width="40" /></a>
+  </p>
 
+- **Rama Alzahrani**  
+  <p align="left">
+    <a href="https://github.com/RamaKhalid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rama Alzahrani" height="30" width="40" /></a>
+  </p>
+
+- **Ruba Alshehri**  
+  <p align="left">
+    <a href="https://github.com/ruba-21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ruba Alshehri" height="30" width="40" /></a>
+  </p>
 
