@@ -7,7 +7,7 @@ We demonstrate that ViT can achieve strong performance in classifying waste mate
 ### 🗃️ Dataset
 
 We used the **Garbage Classification Dataset**, which contains images of different types of waste.  
-📎 [Garbage Classification Dataset on Kaggle](https://www.kaggle.com/datasets/asdasdasas/garbage-classification/data)
+📎 [Garbage Classification Dataset on Kaggle]([https://www.kaggle.com/datasets/asdasdasas/garbage-classification/data](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification))
 
 ### 📊 Performance Metrics
 
