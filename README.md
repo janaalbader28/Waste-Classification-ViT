@@ -4,7 +4,7 @@ This project explores the application of **Vision Transformers (ViT)** in the fi
 
 We demonstrate that ViT can achieve strong performance in classifying waste materials, highlighting its ability to extract meaningful features from visual data even in a domain traditionally dominated by CNNs.
 
-### 🗃️ Dataset
+## 🗃️ Dataset
 
 We used the **Garbage Classification Dataset**, which contains images of different types of waste.  
 📎 [Garbage Classification Dataset on Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
@@ -16,7 +16,7 @@ You can view our full paper here:
 🔗 [Click here to view the Overleaf Paper](https://www.overleaf.com/read/wkwgckmhjkgm#e8305e)
 
 
-### 📊 Performance Metrics
+## 📊 Performance Metrics
 
 The table below summarizes the performance of ViT compared to popular CNN models. The metrics include **Accuracy**, **Precision**, **Recall**, and **F1-Score**, calculated over 50 training epochs.
 
