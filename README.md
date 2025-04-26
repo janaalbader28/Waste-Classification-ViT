@@ -1,6 +1,6 @@
 ## Waste Classification Model using Vision Transformer (ViT) 🗑️♻️
 
-This project explores the application of **Vision Transformers (ViT)** in the field of **waste classification**, an area where ViT has not been extensively studied. While Convolutional Neural Networks (CNNs) such as **DenseNet**, **EfficientNet**, and **ResNet** have been widely used for image classification tasks, our research aims to evaluate the potential of ViT in this domain and compare its performance against these established CNN architectures.
+This project explores the application of **Vision Transformers (ViT)** in the field of **waste classification**, an area where ViT has not been extensively studied. While Convolutional Neural Networks (CNNs) such as **DenseNet**, **EfficientNet**, **VGG19** and **ResNet** have been widely used for image classification tasks, our research aims to evaluate the potential of ViT in this domain and compare its performance against these established CNN architectures.
 
 We demonstrate that ViT can achieve strong performance in classifying waste materials, highlighting its ability to extract meaningful features from visual data even in a domain traditionally dominated by CNNs.
 
@@ -8,6 +8,13 @@ We demonstrate that ViT can achieve strong performance in classifying waste mate
 
 We used the **Garbage Classification Dataset**, which contains images of different types of waste.  
 📎 [Garbage Classification Dataset on Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
+
+
+## 📄 Research Paper
+
+You can view our full paper here:  
+🔗 [Click here to view the Overleaf Paper](https://www.overleaf.com/read/wkwgckmhjkgm#e8305e)
+
 
 ### 📊 Performance Metrics
 
@@ -20,3 +27,8 @@ The table below summarizes the performance of ViT compared to popular CNN models
 | DenseNet121                |  95%          | 96%           | 95%        | 95%          |
 | VGG19                   | 91%           | 91%            | 91%         | 91%           |
 | EfficientNet_b0            | 97%           | 97%           | 97%          | 97%           |
+
+## 👩‍💻 Group Members
+
+
+
