@@ -10,11 +10,6 @@ We used the **Garbage Classification Dataset**, which contains images of differe
 📎 [Garbage Classification Dataset on Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
 
 
-## 📄 Research Paper
-
-You can view our full paper here:  
-🔗 [Click here to view the Overleaf Paper](https://www.overleaf.com/read/wkwgckmhjkgm#e8305e)
-
 
 ## 📊 Performance Metrics
 
